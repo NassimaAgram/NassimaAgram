@@ -13,8 +13,6 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/nassima-agram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanvi-khadpe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/na_coding/" target="blank"><img align="center" src="https://icon-icons.com/downloadimage.php?id=83395&root=1222/PNG/512/&file=1492616972-16-gmail-email-mail-communication-message-service_83395.png" alt="https://www.linkedin.com/in/tanvi-khadpe" height="30" width="40" /></a>
-
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -49,7 +47,7 @@
     <td style="border: 1px solid #f2f2f2;">Mobile Dev</td>
     <td style="border: 1px solid #f2f2f2;"> 
       <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/downloadimage.php?id=130599&root=2107/PNG/512/&file=file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> 
-      
+        <a href="v" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/downloadimage.php?id=66772&root=836/PNG/512/&file=Android_icon-icons.com_66772.png" alt="android" width="40" height="40"/> </a> 
     </td>
   </tr>
   <tr>
@@ -72,7 +70,7 @@
     <td style="border: 1px solid #f2f2f2;">IDEs, Software and Other</td>
     <td style="border: 1px solid #f2f2f2;"> 
       <a href="v" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/downloadimage.php?id=146554&root=2415/PNG/512/&file=docker_plain_logo_icon_146554.png" alt="docker" width="40" height="40"/> </a>
-       <a href="v" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="git" width="40" height="40"/> </a>
+       <a href="v" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/downloadimage.php?id=130084&root=2107/PNG/512/&file=file_type_vscode_icon_130084.png" alt="VSC" width="40" height="40"/> </a>
        <a href="v" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="git" width="40" height="40"/> </a>
        <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></td>
   </tr>
