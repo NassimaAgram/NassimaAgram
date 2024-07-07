@@ -1,6 +1,5 @@
-![image](https://github.com/NassimaAgram/NassimaAgram/assets/159460374/72da4f61-75ea-4a7e-807c-3be15f680d7e)
-<h1 align="left">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 𝐓𝐚𝐧𝐯𝐢 𝐊𝐡𝐚𝐝𝐩𝐞</h1>
-<h3 align="left">✨ UI/ UX Designer | 👩‍💻 Full Stack Web Developer</h3>
+<h1 align="left">𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋, 𝐈'𝐦 Nassima Agram</h1>
+<h3 align="left">✨ UI/ UX Designer | 👩‍💻 Full Stack Web & Mobile Developer</h3>
 
 - 🔭 I’m currently Forth-year Computer Engineering student at the National School of Applied Sciences **ENSA Agadir**.
 
@@ -14,8 +13,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/nassima-agram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanvi-khadpe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/na_coding/" target="blank"><img align="center" src="![image](https://github.com/NassimaAgram/NassimaAgram/assets/159460374/13aa0034-d952-4b4d-9233-f32341e55629)
-" alt="https://www.linkedin.com/in/tanvi-khadpe" height="30" width="40" /></a>
+<a href="https://www.instagram.com/na_coding/" target="blank"><img align="center" src="https://icon-icons.com/downloadimage.php?id=83395&root=1222/PNG/512/&file=1492616972-16-gmail-email-mail-communication-message-service_83395.png" alt="https://www.linkedin.com/in/tanvi-khadpe" height="30" width="40" /></a>
 
 </p>
 
@@ -47,6 +45,13 @@
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>    
     </td>
   </tr>
+    <tr>
+    <td style="border: 1px solid #f2f2f2;">Mobile Dev</td>
+    <td style="border: 1px solid #f2f2f2;"> 
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/downloadimage.php?id=130599&root=2107/PNG/512/&file=file_type_flutter_icon_130599.png" alt="flutter" width="40" height="40"/> </a> 
+      
+    </td>
+  </tr>
   <tr>
     <td style="border: 1px solid #f2f2f2;">Database</td>
     <td style="border: 1px solid #f2f2f2;">
@@ -66,14 +71,10 @@
    <tr>
     <td style="border: 1px solid #f2f2f2;">IDEs, Software and Other</td>
     <td style="border: 1px solid #f2f2f2;"> 
-    <a href="v" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="git" width="40" height="40"/><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></td>
+      <a href="v" target="_blank" rel="noreferrer"> <img src="https://icon-icons.com/downloadimage.php?id=146554&root=2415/PNG/512/&file=docker_plain_logo_icon_146554.png" alt="docker" width="40" height="40"/> </a>
+       <a href="v" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="git" width="40" height="40"/> </a>
+       <a href="v" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" alt="git" width="40" height="40"/> </a>
+       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></td>
   </tr>
 </table>
-       <p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvikhadpe&theme=flat&margin-w=15" alt="tanvikhadpe" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanvikhadpe&show_icons=true&locale=en&layout=compact" alt="tanvikhadpe" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanvikhadpe&show_icons=true&locale=en" alt="tanvikhadpe" /></p>
-<!-- <p><img align="left" src="https://leetcard.jacoblin.cool/tanvi-khadpe?theme=light&font=Noto%20Sans%20Mahajani&cache=0" alt="tanvikhadpe" /></p> -->
-
-
-
+      
